@@ -1,0 +1,5 @@
+name	sequence_length	iupac_bases	total_n	start_n	end_n	internal_n	genome_completeness	insertions	deletions	n_locs
+SRR25426239-ncbi	15678	0	0	0	0	0	100.00	0	0	[]
+SRR25426239-measeq	15678	1	24	0	0	24	99.85	0	0	['4641-4664']
+SRR36155247-ncbi	15678	2	243	0	0	243	98.45	0	0	['14881-15058', '15061-15085', '15104-15143']
+SRR36155247-measeq	15678	0	0	0	0	0	100.00	0	0	[]
